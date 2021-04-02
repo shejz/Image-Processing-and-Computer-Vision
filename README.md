@@ -100,7 +100,7 @@
 8. Video Stabilization In OpenCV
 9. Video Stabilization With Vidstab
 
-## [DEEP LEARNING WITH DNN MODULE]()
+## [DEEP LEARNING WITH DNN MODULE](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/Deep%20Learning)
 1. Image Classification with GoogleNet
 2. Object Detection with SSD (Single Shot Multibox detector)
 3. Object Detection with YOLO (You Only Look Once).
