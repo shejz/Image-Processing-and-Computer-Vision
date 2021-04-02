@@ -52,3 +52,70 @@
 10. Static Background Subtraction
 11. Smart Background Subtraction
 12. Car detection with Background Subtraction
+
+## [CLASSICAL VISION APPLICATIONS](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/Classical%20Vision%20Application)
+1. Shape Detection Application pt 1 (On Images)
+2. Shape Detection Application pt 2 (On GUI & Web cam)
+3. Creating a Virtual Pen & Eraser
+4. Building the Harry Potter Invisibility Cloak
+5. Creating a Virtual Drum
+
+## [GUI AUTOMATION, SEGMENTATION & HOUGH TRANSFORMS]()
+1. Template Matching
+2. GUI Automation with PyAutoGUI
+3. Making Computer Vision Game Bots
+4. Image Inpainting
+5. Image Segmentation with GrabCut Algorithm
+6. Image Segmentation with Watershed Algorithm
+7. Hough Transforms
+8. Hough Lines & Circles
+
+## [FEATURE DETECTORS & DESCRIPTORS]()
+1. What Are Image Features?
+2. Corner Detection
+3. Feature Detectors & Descriptors In OpenCV
+4. ORB (Object Oriented FAST & Rotated BRIEF) Theory
+5. Feature Matching
+6. Real Time Image Classification With Feature Matching
+7. Real Time Object Detection With Image Features
+8. Creating A Panorama
+9. Feature Based Image Alignment
+
+## [MACHINE LEARNING]()
+1. Introduction To Artificial Intelligence
+2 Image Classification With AI, ML and DL
+3. Histogram Of Oriented Gradients
+4. Support Vector Machines (SVMS)
+5. Image Classification With HOG + SVM
+6. Training a Custom ASL Classifier
+7. Training a Pedestrian Detector with HOG+SVM
+
+## [OBJECT TRACKING]()
+1. Object Tracking Introduction
+2. Meanshift & Camshift
+3. Optical Flow Theory
+4. Optical Flow In OpenCV
+5. Modern Trackers In OpenCV
+6. Object Tracking In OpenCV With Tracker API
+7. Multiple Object Tracking In OpenCV
+8. Comparing Different Trackers
+9. Video Stabilization In OpenCV
+10. Video Stabilization With Vidstab
+
+## [DEEP LEARNING WITH DNN MODULE]()
+1. Image Classification with GoogleNet
+2. Object Detection with SSD (Single Shot Multibox detector)
+3. Object Detection with YOLO (You Only Look Once).
+4. Deep learning based Face Detection
+5. Age Detection
+6. Gender Detection
+7. Hand Keypoints Detection
+8. Text Detection
+9. Pose Detection
+10. Style Transfer
+11. Image Segmentation with Mask-RCNN
+12. Image Colorization
+13. Facial Expression Recognition
+14. Super Resolution
+
+
