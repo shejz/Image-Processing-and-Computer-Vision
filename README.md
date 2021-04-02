@@ -70,7 +70,7 @@
 7. Hough Transforms
 8. Hough Lines & Circles
 
-## [FEATURE DETECTORS & DESCRIPTORS]()
+## [FEATURE DETECTORS & DESCRIPTORS](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/Feature%20Detectors%20%26%20Descriptors)
 1. What Are Image Features?
 2. Corner Detection
 3. Feature Detectors & Descriptors In OpenCV
