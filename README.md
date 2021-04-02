@@ -9,3 +9,7 @@
 6. Manipulating Image ROI & Channels
 7. Image Addition, Resizing & Blending
 8. Making an Image Transition Application
+9. Making an Image Transition Application
+10. Replacing ROIs & Transparent Images
+11. Bitwise Operations & Basic Thresholding
+12. Overlaying Logo With Removed Background
