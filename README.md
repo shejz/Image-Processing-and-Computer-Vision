@@ -60,7 +60,7 @@
 4. Building the Harry Potter Invisibility Cloak
 5. Creating a Virtual Drum
 
-## [GUI AUTOMATION, SEGMENTATION & HOUGH TRANSFORMS]()
+## [GUI AUTOMATION, SEGMENTATION & HOUGH TRANSFORMS](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/GUI%20Automation%2C%20Segmentation%20%26%20Hough%20Transforms)
 1. Template Matching
 2. GUI Automation with PyAutoGUI
 3. Making Computer Vision Game Bots
