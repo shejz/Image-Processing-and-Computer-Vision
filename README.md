@@ -81,7 +81,7 @@
 8. Creating A Panorama
 9. Feature Based Image Alignment
 
-## [MACHINE LEARNING]()
+## [MACHINE LEARNING](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/Machine%20Learning)
 1. Introduction To Artificial Intelligence
 2 Image Classification With AI, ML and DL
 3. Histogram Of Oriented Gradients
