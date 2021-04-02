@@ -82,25 +82,23 @@
 9. Feature Based Image Alignment
 
 ## [MACHINE LEARNING](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/Machine%20Learning)
-1. Introduction To Artificial Intelligence
-2 Image Classification With AI, ML and DL
-3. Histogram Of Oriented Gradients
-4. Support Vector Machines (SVMS)
-5. Image Classification With HOG + SVM
-6. Training a Custom ASL Classifier
-7. Training a Pedestrian Detector with HOG+SVM
+1 Image Classification With AI, ML and DL
+2. Histogram Of Oriented Gradients
+3. Support Vector Machines (SVMS)
+4. Image Classification With HOG + SVM
+5. Training a Custom ASL Classifier
+6. Training a Pedestrian Detector with HOG+SVM
 
 ## [OBJECT TRACKING]()
-1. Object Tracking Introduction
-2. Meanshift & Camshift
-3. Optical Flow Theory
-4. Optical Flow In OpenCV
-5. Modern Trackers In OpenCV
-6. Object Tracking In OpenCV With Tracker API
-7. Multiple Object Tracking In OpenCV
-8. Comparing Different Trackers
-9. Video Stabilization In OpenCV
-10. Video Stabilization With Vidstab
+1. Meanshift & Camshift
+2. Optical Flow Theory
+3. Optical Flow In OpenCV
+4. Modern Trackers In OpenCV
+5. Object Tracking In OpenCV With Tracker API
+6. Multiple Object Tracking In OpenCV
+7. Comparing Different Trackers
+8. Video Stabilization In OpenCV
+9. Video Stabilization With Vidstab
 
 ## [DEEP LEARNING WITH DNN MODULE]()
 1. Image Classification with GoogleNet
