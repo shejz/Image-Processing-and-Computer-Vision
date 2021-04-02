@@ -82,7 +82,7 @@
 9. Feature Based Image Alignment
 
 ## [MACHINE LEARNING](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/Machine%20Learning)
-1 Image Classification With AI, ML and DL
+1. Image Classification With AI, ML and DL
 2. Histogram Of Oriented Gradients
 3. Support Vector Machines (SVMS)
 4. Image Classification With HOG + SVM
