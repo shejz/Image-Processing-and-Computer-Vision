@@ -1,6 +1,6 @@
 # **Image Processing and Computer-Vision**
 
-## **OPENCV BASICS**
+## [OPENCV BASICS](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/OpenCV%20Basics)
 1. Opencv Fundamentals
 2. Imshow, Resizing, Imwrite & Conditional Exit
 3. Drawing Shapes & Text On Image
