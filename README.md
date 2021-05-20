@@ -14,7 +14,7 @@
 11. Bitwise Operations & Basic Thresholding
 12. Overlaying Logo With Removed Background
 
-## [1. IMAGE PROCESSING](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/1.%20Image%20Processing)
+## [1. IMAGE PROCESSING I](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/1.%20Image%20Processing)
 1. Brightness & Contrast Enhancement
 2. Advance Thresholding
 3. Image Filtering & Convolution
@@ -26,7 +26,7 @@
 9. Canny Edge Detector Theory
 10. Canny Edge Detector in OpenCV
 
-## [2. IMAGE PROCESSING](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/2.%20Image%20Processing)
+## [2. IMAGE PROCESSING II](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/2.%20Image%20Processing)
 1. Morphological Operations
 2. Blur Detection
 3. Haar Cascades
@@ -39,7 +39,7 @@
 10. ColorMaps
 11. Advance Color Adjustment
 
-## [3. IMAGE PROCESSING](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/3.%20Image%20Processing)
+## [3. IMAGE PROCESSING III](https://github.com/shejz/Image-Processing-and-Computer-Vision/tree/main/3.%20Image%20Processing)
 1. Geometric Transformations
 2. Image Pyramids
 3. Pyramid Blending
